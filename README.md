@@ -45,6 +45,8 @@ Google Apps Script（GAS）とLINE Messaging APIを使用して作成した、�
 
 ## ファイル構成
 
+| ファイル名         | ファイル内容                       |
+|--------------|-------------------------------|
 | `main.gs` | GASコード |
 | `README.md` | 説明ファイル |
 
