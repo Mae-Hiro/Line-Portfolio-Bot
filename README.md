@@ -37,4 +37,4 @@ Google Apps Script（GAS）とLINE Messaging APIを使用して作成した、�
 
 ## 備考
 
-このLine Botは、技術CAMPアカデミアのオンライン学数回を通して学んだ知識を活用して開発しました。
+このLine Botは、技術CAMPアカデミアのオンラインを学習会を通して学んだ知識を活用して開発しました。
